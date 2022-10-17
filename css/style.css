@@ -5,6 +5,11 @@
 }
 
 
+body {
+}
+
+
+
 
 
 
@@ -19,12 +24,13 @@ header {
     
 }
 
+
 .topbar   {
     background-color: blue;
     border: 1px solid black;
     height: 2rem;
     width: 60%;
-    margin: 1rem 10rem;
+    margin: 1rem 19rem;
     
 }
 
@@ -49,4 +55,23 @@ header {
     height: 100%;
     display: inline-block;
 }
+
+.bigimg {
+    background-color: blanchedalmond;
+    border: 1px solib black;
+    height: 30rem;
+}
+
+#bigimg1 {
+    background-color: blue;
+    border: 1px solid black;
+    height: 80% ;
+    width: 50%;
+    margin-left: 24rem;
+    margin-top: 3rem;
+    display: inline-block;
+
+}
+
+
 

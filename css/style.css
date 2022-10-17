@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+header {
+    background-color: aquamarine;
+    border: 1px solid black;
+    height: 4rem;
+
+    
+}
+
+.topbar   {
+    background-color: blue;
+    border: 1px solid black;
+    height: 2rem;
+    width: 60%;
+    margin: 1rem 10rem;
+    
+}
+
+.topsection1 {
+    border: 1px solid black;
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+}
+
+.topsection2 {
+    border: 1px solid black;
+    width: 58%;
+    height: 100%;
+    margin-left: 0;
+    display: inline-block;
+}
+
+.topsection3 {
+    border: 1px solid black;
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+}
+
